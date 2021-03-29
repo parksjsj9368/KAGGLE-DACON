@@ -1,13 +1,13 @@
-## Kaggle
+## KAGGLE - DACON
 
-https://www.kaggle.com/
+<br>
 
-## 규칙
+DACON & KAGGLE 대회를 참가해보고 수상작을 따라 공부한 프로덕트들입니다.
 
-- 어뷰징 하지 않는다.
-- 캐글 한 주제당 1~2주안에 마무리 한다.
-- 하루에 1커밋을 꾸준히 한다.
-- 주중에는 무조건 커밋을 한다.
-- 주말은 쉰다.
+<br>
 
-> 동료 : 김령아, 박세진, 황인범
+Kaggle : https://www.kaggle.com/
+
+Dacon : https://dacon.io/main
+
+<br>
